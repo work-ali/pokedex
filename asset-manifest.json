@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/pokedex/static/js/main.09ccd748.chunk.js",
-    "main.js.map": "/pokedex/static/js/main.09ccd748.chunk.js.map",
-    "runtime-main.js": "/pokedex/static/js/runtime-main.2d94522c.js",
-    "runtime-main.js.map": "/pokedex/static/js/runtime-main.2d94522c.js.map",
-    "static/js/2.47e28627.chunk.js": "/pokedex/static/js/2.47e28627.chunk.js",
-    "static/js/2.47e28627.chunk.js.map": "/pokedex/static/js/2.47e28627.chunk.js.map",
-    "index.html": "/pokedex/index.html",
-    "precache-manifest.e9b550b4cc8bc2459b3f386903da949e.js": "/pokedex/precache-manifest.e9b550b4cc8bc2459b3f386903da949e.js",
-    "service-worker.js": "/pokedex/service-worker.js",
-    "static/js/2.47e28627.chunk.js.LICENSE.txt": "/pokedex/static/js/2.47e28627.chunk.js.LICENSE.txt"
+    "main.js": "http://work-ali.github.io/pokedex/static/js/main.2e96cb7b.chunk.js",
+    "main.js.map": "http://work-ali.github.io/pokedex/static/js/main.2e96cb7b.chunk.js.map",
+    "runtime-main.js": "http://work-ali.github.io/pokedex/static/js/runtime-main.3866386e.js",
+    "runtime-main.js.map": "http://work-ali.github.io/pokedex/static/js/runtime-main.3866386e.js.map",
+    "static/js/2.47e28627.chunk.js": "http://work-ali.github.io/pokedex/static/js/2.47e28627.chunk.js",
+    "static/js/2.47e28627.chunk.js.map": "http://work-ali.github.io/pokedex/static/js/2.47e28627.chunk.js.map",
+    "index.html": "http://work-ali.github.io/pokedex/index.html",
+    "precache-manifest.dd84e058440c70c08693ee81a5c9a7e4.js": "http://work-ali.github.io/pokedex/precache-manifest.dd84e058440c70c08693ee81a5c9a7e4.js",
+    "service-worker.js": "http://work-ali.github.io/pokedex/service-worker.js",
+    "static/js/2.47e28627.chunk.js.LICENSE.txt": "http://work-ali.github.io/pokedex/static/js/2.47e28627.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d94522c.js",
+    "static/js/runtime-main.3866386e.js",
     "static/js/2.47e28627.chunk.js",
-    "static/js/main.09ccd748.chunk.js"
+    "static/js/main.2e96cb7b.chunk.js"
   ]
 }
