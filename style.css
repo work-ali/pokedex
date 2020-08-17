@@ -123,7 +123,7 @@ body {
   background-color: #234375;
 }
 .page-bg {
-  background: url(../images/pokemon-bg.jpg) center center no-repeat;
+  background: url('images/pokemon-bg.jpg') center center no-repeat;
   background-size: cover;
   position: absolute;
   top: 0;
