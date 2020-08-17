@@ -1,0 +1,5 @@
+module.exports = {
+  RESQUEST: "SEARCH_RESQUEST",
+  SUCCESS: "SEARCH_SUCCESS",
+  FAILURE: "SEARCH_FAILURE",
+};
