@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://work-ali.github.io/pokedex/static/js/main.916e6139.chunk.js",
-    "main.js.map": "https://work-ali.github.io/pokedex/static/js/main.916e6139.chunk.js.map",
+    "main.js": "https://work-ali.github.io/pokedex/static/js/main.3944915a.chunk.js",
+    "main.js.map": "https://work-ali.github.io/pokedex/static/js/main.3944915a.chunk.js.map",
     "runtime-main.js": "https://work-ali.github.io/pokedex/static/js/runtime-main.629be30d.js",
     "runtime-main.js.map": "https://work-ali.github.io/pokedex/static/js/runtime-main.629be30d.js.map",
     "static/js/2.47e28627.chunk.js": "https://work-ali.github.io/pokedex/static/js/2.47e28627.chunk.js",
     "static/js/2.47e28627.chunk.js.map": "https://work-ali.github.io/pokedex/static/js/2.47e28627.chunk.js.map",
     "index.html": "https://work-ali.github.io/pokedex/index.html",
-    "precache-manifest.744233b8619111c23f0aa5c4b0ef233f.js": "https://work-ali.github.io/pokedex/precache-manifest.744233b8619111c23f0aa5c4b0ef233f.js",
+    "precache-manifest.e3ca6895ed23a13854ecff52eae9df16.js": "https://work-ali.github.io/pokedex/precache-manifest.e3ca6895ed23a13854ecff52eae9df16.js",
     "service-worker.js": "https://work-ali.github.io/pokedex/service-worker.js",
     "static/js/2.47e28627.chunk.js.LICENSE.txt": "https://work-ali.github.io/pokedex/static/js/2.47e28627.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.629be30d.js",
     "static/js/2.47e28627.chunk.js",
-    "static/js/main.916e6139.chunk.js"
+    "static/js/main.3944915a.chunk.js"
   ]
 }

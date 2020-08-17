@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f354e490f884637c5c14c3776faad5ce",
+    "revision": "86f5550abecfe232b8501ab1902e9ad6",
     "url": "https://work-ali.github.io/pokedex/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://work-ali.github.io/pokedex/static/js/2.47e28627.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "075d9fe40b38f460aab5",
-    "url": "https://work-ali.github.io/pokedex/static/js/main.916e6139.chunk.js"
+    "revision": "fb2549a2c2bdd4f2ef20",
+    "url": "https://work-ali.github.io/pokedex/static/js/main.3944915a.chunk.js"
   },
   {
     "revision": "f614fb79c73a269c7519",
