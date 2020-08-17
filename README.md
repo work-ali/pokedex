@@ -13,11 +13,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 This project uses 
 
-reactjs
-es 6 
-react-redux
-redux-saga
-react-router-dom
-fetch
+reactjs<br />
+es 6 <br />
+react-redux<br />
+redux-saga<br />
+react-router-dom<br />
+fetch<br />
 
 Currently search history is maintained in redux store.
